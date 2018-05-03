@@ -21,7 +21,7 @@ cd /path/where/you/want
 ````
 
 
-# For  macosx or debian do:
+# For Macosx or Debian:
 - Open with vim
 ```sh
 vim git-clone-specif-file.sh
