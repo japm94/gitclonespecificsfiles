@@ -1,7 +1,7 @@
 # Clonnig specific file from repository
 This script help you to clone specifics files in a repo.
 
-## Tutorial
+# For Windows
 - Clone this repository
 ```sh
 git clone https://github.com/japm94/gitclonespecificsfiles.git
@@ -21,7 +21,7 @@ cd /path/where/you/want
 ````
 
 
-P.S.: If you are using macosx or debian:
+# For  macosx or debian do:
 - Open with vim
 ```sh
 vim git-clone-specif-file.sh
