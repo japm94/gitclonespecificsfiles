@@ -1,0 +1,13 @@
+mkdir directoryName
+cd directoryName
+git init
+git remote add branchName repoUrl
+echo some/dir/filename >> .git/info/sparse-checkout
+git config core.sparsecheckout true
+git pull branchName
+git checkout branchName
+-----------------------------------------------------------------------
+*/After edit files 
+
+git add . (or) fileName
+git push
